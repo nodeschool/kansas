@@ -9,7 +9,7 @@ You can see the website here: http://nodeschool.io/kansas-city/
 ## Talk to us
 We are **NEW** chapter and thus we need more mentors and organizers. Please reach out if interested. 
 
-You can join us on our slack channel:
+You can join us on our [SLACK CHANNEL](https://nodeschool-kc.herokuapp.com/badge.svg):
 
 [![Join us on Slack](https://nodeschool-kc.herokuapp.com/badge.svg)](https://nodeschool-kc.herokuapp.com/)
 
