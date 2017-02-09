@@ -8,6 +8,7 @@ You can see the website here: http://nodeschool.io/kansas-city/
 
 ## Talk to us
 You can join us on our slack channel:
+
 [![Join us on Slack](https://nodeschool-kc.herokuapp.com/badge.svg)](https://nodeschool-kc.herokuapp.com/)
 
 
