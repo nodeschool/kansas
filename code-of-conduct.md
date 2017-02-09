@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We, the organizers of **Node School Kansas City**, are dedicated to providing a
+We, the organizers of **Nodeschool Kansas City**, are dedicated to providing a
 harassment-free community for everyone, regardless of sex, gender identity or
 expression, sexual orientation, disability, physical appearance, age, body
 size, race, nationality, or religious beliefs. We do not tolerate harassment of
