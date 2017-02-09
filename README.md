@@ -11,6 +11,7 @@ You can join us on our slack channel:
 
 [![Join us on Slack](https://nodeschool-kc.herokuapp.com/badge.svg)](https://nodeschool-kc.herokuapp.com/)
 
+note: this heroku invite app may take a minute to load if it is sleeping...
 
 
 
