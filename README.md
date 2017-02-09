@@ -1,12 +1,14 @@
 # NodeSchool Kansas City 🎓🏫🎒
 
-Welcome to the **NEW** NodeSchool Kansas City chapter's repository. We use this
+Welcome to the NodeSchool Kansas City chapter's repository. We use this
 repository for our website and much of our communication.
 
 You can see the website here: http://nodeschool.io/kansas-city/
 
 
 ## Talk to us
+We are **NEW** chapter and thus we need more mentors and organizers. Please reach out if interested. 
+
 You can join us on our slack channel:
 
 [![Join us on Slack](https://nodeschool-kc.herokuapp.com/badge.svg)](https://nodeschool-kc.herokuapp.com/)
@@ -15,7 +17,7 @@ note: this heroku invite app may take a minute to load if it is sleeping...
 
 
 
-We utilize [GitHub Issues](https://github.com/nodeschool/kansas-city/issues)
+We also utilize [GitHub Issues](https://github.com/nodeschool/kansas-city/issues)
 like a message board and try to keep almost all of our communication in the open. If
 for any reason you need to contact an organizer privately you may contact us
 directly.
